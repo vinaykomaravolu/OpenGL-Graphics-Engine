@@ -54,5 +54,5 @@ A very helpful site that gets you started on learning OpenGL: [LearnOpenGL](http
 
 ## Future Goal
 ![model](git_resources/anatomy_proj.png)
-This image is rendered in [Blender](https://www.blender.org/). This rendered image is what I aim to achieve with my engine soon.
+This image is rendered in [Blender](https://www.blender.org/). This rendered image is what I aim to achieve with my engine.
 
