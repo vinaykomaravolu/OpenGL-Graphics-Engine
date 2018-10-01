@@ -1,0 +1,57 @@
+﻿  main.cpp
+c:\users\vinay komaravolu\source\repos\ogltut\includes\glm\detail/setup.hpp(589): warning C4005: 'GLM_SWIZZLE': macro redefinition
+  main.cpp(4): note: see previous definition of 'GLM_SWIZZLE'
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\Shader.h(65): warning C4101: 'infoLog': unreferenced local variable
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\Shader.h(64): warning C4101: 'success': unreferenced local variable
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\textgl.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\textgl.h(143): warning C4838: conversion from 'FT_Pos' to 'GLuint' requires a narrowing conversion
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(6): warning C4005: 'GLM_SWIZZLE': macro redefinition
+  c:\users\vinay komaravolu\source\repos\ogltut\includes\glm\gtc\../detail/setup.hpp(589): note: see previous definition of 'GLM_SWIZZLE'
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(111): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(115): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(119): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(123): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(127): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(131): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(135): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(136): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(139): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(143): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(147): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(353): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(357): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(361): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(365): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(369): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(373): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(377): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(378): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(381): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(385): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Vinay Komaravolu\Source\Repos\OGLTUT\includes\lights.h(389): warning C4804: '<=': unsafe use of type 'bool' in operation
+main.cpp(175): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(213): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(258): warning C4305: 'argument': truncation from 'double' to 'float'
+main.cpp(350): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(351): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(355): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(356): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main.cpp(358): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(359): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+main.cpp(368): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+main.cpp(390): warning C4101: 'iState': unreferenced local variable
+  aldlist.cpp
+  CWaves.cpp
+  Framework.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  LoadOAL.cpp
+  glad.c
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 1178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  OGLTUT.vcxproj -> C:\Users\Vinay Komaravolu\Source\Repos\GraphicsEngineMini\Release\GraphicsEngineV.exe
