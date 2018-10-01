@@ -44,15 +44,15 @@ A very helpful site that gets you started on learning OpenGL: [LearnOpenGL](http
 # Demonstration
 
 ## Rendered [Sponza](https://github.com/KhronosGroup/glTF-Sample-Models/tree/master/2.0/Sponza) Demo
-[!Demo](git_resources/graphics_engine_demo.gif)
+![Demo](git_resources/graphics_engine_demo.gif)
 
 ## Model View Demo
-[!nanosuit Demo](git_resources/graphics_engine_demo_model.gif)
+![nanosuit Demo](git_resources/graphics_engine_demo_model.gif)
 
 ## Skybox Lighting Demo
-[!skybox Demo](git_resources/graphics_engine_demo_skybox.gif)
+![skybox Demo](git_resources/graphics_engine_demo_skybox.gif)
 
 ## Future Goal
-[!model](git_resources/anatomy_proj.png)
+![model](git_resources/anatomy_proj.png)
 This image is rendered in [Blender](https://www.blender.org/). This rendered image is what I aim to achieve with my engine soon.
 
