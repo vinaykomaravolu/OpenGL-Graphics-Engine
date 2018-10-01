@@ -3,6 +3,7 @@
 Graphics Engine made from the group up entirely from OpenGL, GLFW, C++, GLSL, and various other libraries. Enables user to easily load models and textures for rendering and viewing.
 
 # Features/Details
+* Windows Platform.
 * lighting is based of the Phong shading model (diffuse, ambient, specular).
 * Implemented Directional Lights, Point Lights, and Spot-light.
 * Able to easily create Lights, Objects, and Sounds via helper classes.
@@ -27,6 +28,7 @@ Graphics Engine made from the group up entirely from OpenGL, GLFW, C++, GLSL, an
 * ray tracing implementation to render scenes.
 * Implementing PBR (Physical Based Rendering).
 * Easier stencil buffer use.
+* Multiplatform implementation. 
 
 # How I got Started
 A very helpful site that gets you started on learning OpenGL: [LearnOpenGL](https://learnopengl.com/).
@@ -40,6 +42,13 @@ A very helpful site that gets you started on learning OpenGL: [LearnOpenGL](http
 * Assimp
 * ImGui
 * OpenAL
+
+# Usage in Other Projects
+1. [3D-DIsplay-Simulation](https://github.com/vinaykomaravolu/3D-Display-Simulation)
+2. [VText](https://github.com/vinaykomaravolu/VText)
+
+# Usage
+Clone repository and run GraphicsEngineV.exe in release folder.
 
 # Demonstration
 
