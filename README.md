@@ -1,6 +1,6 @@
 
 # OpenGL-Graphics-Engine
-Graphics Engine made from the group up entirely from OpenGL, GLFW, C++, GLSL, and various other libraries. Enables user to easily load models and textures for rendering and viewing.
+Graphics Engine made from the ground up entirely using OpenGL, GLFW, C++, GLSL. This engine enables user to easily load models and textures for rendering and viewing.
 
 # Features/Details
 * Windows Platform.
