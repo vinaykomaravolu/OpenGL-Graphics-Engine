@@ -9,7 +9,7 @@ Graphics Engine made from the ground up entirely using OpenGL, GLFW, C++, GLSL. 
 * Able to easily create Lights, Objects, and Sounds via helper classes.
 * Textures can be added singular or grouped to a particular model.
 * fragmentShaders and VertexShaders are implemented for generic models and lighting.
-* Camera class enables user to modify the generic camera (allows both 3rd persons and 1st person view). Camera is movable
+* Camera class enables user to modify the generic camera (allows both 3rd persons and 1st person view).
 * implemented sound modules with OpenAL.
 * Models are created and imported from blender and other 3D modeling software’s.
 * Anti-aliasing functionality.
