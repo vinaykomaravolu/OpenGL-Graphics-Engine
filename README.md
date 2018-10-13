@@ -29,6 +29,8 @@ Graphics Engine made from the ground up entirely using OpenGL, GLFW, C++, GLSL. 
 * Implementing PBR (Physical Based Rendering).
 * Easier stencil buffer use.
 * Multiplatform implementation. 
+* Collisions
+* Physics
 
 # How I got Started
 A very helpful site that gets you started on learning OpenGL: [LearnOpenGL](https://learnopengl.com/).
